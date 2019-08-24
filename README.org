@@ -97,6 +97,11 @@ Está ordenada por países y universidades.
 ** Universidad de Nottingham
 + [[http://www.cs.nott.ac.uk/~gmh/fun.html][Functional programming]]. ~ G. Hutton
 
+* Rusia
+
+** Universidad ITMO (en San Petersburgo)
++ [[https://github.com/jagajaga/FP-Course-ITMO][Haskell ITMO course at CTD]]. ~ Dmitry Kovanikov, Arseniy Seroka.
+
 * Suecia
 
 ** Univ. de Chalmers
