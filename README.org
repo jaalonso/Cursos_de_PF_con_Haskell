@@ -1,7 +1,7 @@
 #+TITLE:   Cursos de programación funcional con Haskell
 #+AUTHOR:  José A. Alonso
 #+DATE:    26 de mayo de 2016
-#+OPTIONS: H:2 num:t 
+#+OPTIONS: H:2 num:t
 
 En esta página se recopilan cursos de programación funcional con Haskell que
 sirven de referencia al curso de [[http://www.cs.us.es/~jalonso/cursos/i1m][Informática de primero del Grado en
@@ -27,7 +27,7 @@ Está ordenada por países y universidades.
 
 ** NICTA
 + [[https://github.com/NICTA/course][Functional programming course]]. ~ T. Morris y M. Hibberd.
-  
+
 * España
 
 ** Universidad de Málaga
@@ -77,7 +77,14 @@ Está ordenada por países y universidades.
 ** Universidad de Aix-Marsella
 + [[http://pageperso.lif.univ-mrs.fr/~luigi.santocanale//teaching/1314teaching/PF][Programmation fonctionnelle]]. ~ L. Santocanale
 
-* Noruega  
+
+* India
+
+** Chennai Mathematical Institute
+
++ [[https://www.cmi.ac.in/~spsuresh/teaching/prgh19/][Programming in Haskell (August – November 2019)]]. ~ [[https://www.cmi.ac.in/~spsuresh/index.html#home][S P Suresh]].
+
+* Noruega
 
 ** Universidad Noruega de Ciencia y Tecnología (NTNU)
 + [[http://www.hg.schaathun.net/FPIA/][Functional programming and intelligent algorithms]]. ~ [[http://www.hg.schaathun.net/][Hans Georg Schaathun]]
@@ -87,12 +94,12 @@ Está ordenada por países y universidades.
 ** Universidad de Utrecht
 + [[http://foswiki.cs.uu.nl/foswiki/Afp/EducationPage][Advanced functional programming]]. ~ [[http://foswiki.cs.uu.nl/foswiki/Atze/WebHome][A. Dijkstra]] y [[http://www.staff.science.uu.nl/~swier004/][W. Swierstra]].
 + [[http://foswiki.cs.uu.nl/foswiki/Afp0405][Advanced functional programming]] (2005-06). ~ [[http://www.open.ou.nl/bhr/][B. Heeren]] y [[http://foswiki.cs.uu.nl/foswiki/Swierstra/WebHome][D. Swierstra]].
- 
+
 * Reino Unido
 
 ** Universidad de Edimburgo
 + [[https://www.inf.ed.ac.uk/teaching/courses/inf1/fp][Informatics 1: Functional programming]]. ~ D. Sannella
-+ [[http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/][Informatics 1: Functional programming]]. ~ P. Wadler. 
++ [[http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/][Informatics 1: Functional programming]]. ~ P. Wadler.
 
 ** Universidad de Nottingham
 + [[http://www.cs.nott.ac.uk/~gmh/fun.html][Functional programming]]. ~ G. Hutton
@@ -117,12 +124,12 @@ Está ordenada por países y universidades.
 * Uruguay
 
 ** Univ. de la República, Montevideo
-+ [[https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma][Programación funcional avanzada]]. ~ [[https://www.fing.edu.uy/~mviera/wiki/field.php?n=Main.Home][M. Viera]] y [[https://www.fing.edu.uy/~pardo/][A. Pardo]]. 
++ [[https://www.fing.edu.uy/inco/cursos/pfa/wiki/field.php?n=Main.Cronograma][Programación funcional avanzada]]. ~ [[https://www.fing.edu.uy/~mviera/wiki/field.php?n=Main.Home][M. Viera]] y [[https://www.fing.edu.uy/~pardo/][A. Pardo]].
 
 * Venezuela
 
 ** Univ. Simón Bolívar
-+ [[http://ldc.usb.ve/~emhn/cursos/ci4251/][Programación funcional avanzada (2017)]]. ~ [[http://ldc.usb.ve/~emhn/][Ernesto Hernández-Novich]].   
++ [[http://ldc.usb.ve/~emhn/cursos/ci4251/][Programación funcional avanzada (2017)]]. ~ [[http://ldc.usb.ve/~emhn/][Ernesto Hernández-Novich]].
 
 * Vídeos de Haskell
 
@@ -130,7 +137,7 @@ Está ordenada por países y universidades.
 + [[http://bit.ly/1l7jLO9][Adventures in Haskell]]. ~ D. Silverstone
 + [[http://bit.ly/22ytFAK][Beginner Haskell exercises]]. ~ Mitchell Rosen
 + [[http://bit.ly/22yrNYC][Functional Programming Fundamentals]]. ~ E. Meijer
-+ [[http://bit.ly/22ytOUM][Functional programming]]. ~ P. Wadler 
++ [[http://bit.ly/22ytOUM][Functional programming]]. ~ P. Wadler
 + [[http://bit.ly/22ys91x][Haskell amuse-bouche]]. ~ M. Lentczner
 + [[http://bit.ly/1mQacrD][Haskell course]]. ~ P. Wadler
 + [[http://bit.ly/1l7jfjd][Haskell from scratch]].
@@ -150,4 +157,4 @@ Está ordenada por países y universidades.
 + [[http://bit.ly/1qGjwMN][Haskell online study materials]].
 + [[https://github.com/HaskellChamber/Haskell-University][Haskell-University: Portfolio-based approach to learning Haskell]].
 + [[https://github.com/jagajaga/FP-Course-ITMO][Slides and other materials for functional programming lectures ITMO
-  university]]. ~ [[https://github.com/ChShersh][D. Kovanikov]] y [[https://github.com/jagajaga][A. Seroka]]. 
+  university]]. ~ [[https://github.com/ChShersh][D. Kovanikov]] y [[https://github.com/jagajaga][A. Seroka]].
